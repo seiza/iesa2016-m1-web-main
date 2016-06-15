@@ -2,6 +2,7 @@
 IESA 2016 - Master 1 - Web
 
 1. https://github.com/seiza/iesa2016-m1-web-main (Jacques COUVREUR)
+1. https://github.com/BrianneTB/iesa2016-m1-web-main (Brianne TOURON-BEAL)
 1. https://github.com/lhollow75/iesa2016-m1-web (Mathilde DE OLIVEIRA)
 1. https://github.com/juliensallei/iesa2016-m1-web (Julien SALLEI)
 1. https://github.com/Broby1/iesa2016-m1-web (Broby AKMEL)
