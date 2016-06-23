@@ -1,7 +1,13 @@
-# iesa2016-m1-web-main
-IESA 2016 - Master 1 - Web
+# IESA 2016 - Master 1 - Web
 
-1. https://github.com/seiza/iesa2016-m1-web-main (Jacques COUVREUR)
+##Projects
+
+1. https://github.com/LauraLabbe/iesa2016-m1-project
+2. https://github.com/rrabillo/iesa2016-m1-project
+3. https://github.com/lhollow75/iesa2016-m1-project
+
+## Etudiants
+
 1. https://github.com/LauraLabbe/iesa2016-m1-web-main (Laura LABBE)
 1. https://github.com/KathyGremillet/iesa2016-m1-web (Kathy GREMILLET)
 1. https://github.com/BrianneTB/iesa2016-m1-web-main (Brianne TOURON-BEAL)
@@ -17,3 +23,5 @@ IESA 2016 - Master 1 - Web
 1. https://github.com/MaevaAoigami/iesa2016-m1-web (Maeva RIDARD)
 1. https://github.com/OphelieF/iesa2016-m1-web (Ophélie FAIVRE)
 1. https://github.com/vqsto/iesa2016-m1-web-main (Romain Croizat)
+
+
